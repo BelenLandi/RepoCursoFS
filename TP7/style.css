@@ -1,0 +1,36 @@
+.nombre {
+    display: flex;
+    justify-content: center;
+
+}
+.titulo{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
+    font-size: 5em;
+}
+ul li a {
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em;
+    font-style: oblique;
+}
+h2 {
+    color: darkred;
+    font-size: 4em;
+
+}
+.fondo {
+    background-color: lightblue;
+    width: 45%;
+    height: 10%;
+}
+.enlace:hover{
+    color: black;
+    cursor: pointer;
+}
+body{
+    background-image: url(https://www.muycomputer.com/wp-content/uploads/2015/11/Fisica0.jpg);
+    background-size: cover;
+}
